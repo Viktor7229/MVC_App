@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x64</Platforms>
+    <!--<Nullable>enable</Nullable>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MVC_App_DataAccess\MVC_App.DataAccess.csproj" />
+    <ProjectReference Include="..\MVC_App_Domain\MVC_App.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

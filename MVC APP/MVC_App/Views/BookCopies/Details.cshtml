@@ -1,0 +1,36 @@
+﻿@model MVC_App_Domain.Models.BookCopies
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>BookCopies</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CopiesFK_Book)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CopiesFK_Book)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CopiesNumberOfCopies)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CopiesNumberOfCopies)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CopiesFK_Library)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CopiesFK_Library)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

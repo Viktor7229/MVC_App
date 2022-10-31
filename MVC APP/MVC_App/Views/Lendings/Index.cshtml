@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MVC_App_Domain.Models.Lending>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lendings</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FK_Book)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FK_Client)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateLending)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateGivenBack)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FK_Book)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FK_Client)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateLending)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateGivenBack)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

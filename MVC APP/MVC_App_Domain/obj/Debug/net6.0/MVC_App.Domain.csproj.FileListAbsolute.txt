@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\bin\Debug\net6.0\MVC_App.Domain.deps.json
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\bin\Debug\net6.0\MVC_App.Domain.runtimeconfig.json
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\bin\Debug\net6.0\MVC_App.Domain.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\bin\Debug\net6.0\MVC_App.Domain.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\MVC_App.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\MVC_App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\MVC_App.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\MVC_App.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\MVC_App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\MVC_App.Domain.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\refint\MVC_App.Domain.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\MVC_App.Domain.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\MVC_App.Domain.genruntimeconfig.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_Domain\obj\Debug\net6.0\ref\MVC_App.Domain.dll

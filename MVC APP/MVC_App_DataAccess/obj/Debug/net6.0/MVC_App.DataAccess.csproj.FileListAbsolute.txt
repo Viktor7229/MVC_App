@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\bin\Debug\net6.0\MVC_App.DataAccess.deps.json
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\bin\Debug\net6.0\MVC_App.DataAccess.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\bin\Debug\net6.0\MVC_App.DataAccess.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\bin\Debug\net6.0\MVC_App.Domain.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\bin\Debug\net6.0\MVC_App.Domain.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\MVC_App.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\MVC_App.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\MVC_App.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\MVC_App.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\MVC_App.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\MVC_App.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\MVC_App.DataAccess.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\refint\MVC_App.DataAccess.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\MVC_App.DataAccess.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_App_DataAccess\obj\Debug\net6.0\ref\MVC_App.DataAccess.dll

@@ -1,0 +1,48 @@
+﻿@model MVC_App_Domain.Models.Lending
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Lending</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FK_Book" class="control-label"></label>
+                <input asp-for="FK_Book" class="form-control" />
+                <span asp-validation-for="FK_Book" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FK_Client" class="control-label"></label>
+                <input asp-for="FK_Client" class="form-control" />
+                <span asp-validation-for="FK_Client" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateLending" class="control-label"></label>
+                <input asp-for="DateLending" class="form-control" />
+                <span asp-validation-for="DateLending" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateGivenBack" class="control-label"></label>
+                <input asp-for="DateGivenBack" class="form-control" />
+                <span asp-validation-for="DateGivenBack" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

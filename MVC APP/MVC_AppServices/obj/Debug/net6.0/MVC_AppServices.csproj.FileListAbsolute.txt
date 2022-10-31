@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\bin\Debug\net6.0\MVC_AppServices.deps.json
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\bin\Debug\net6.0\MVC_AppServices.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\bin\Debug\net6.0\MVC_AppServices.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\MVC_AppServices.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\MVC_AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\MVC_AppServices.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\MVC_AppServices.AssemblyInfo.cs
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\MVC_AppServices.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\MVC_AppServices.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\refint\MVC_AppServices.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\MVC_AppServices.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\ref\MVC_AppServices.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\bin\Debug\net6.0\MVC_App_DataAccess.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\bin\Debug\net6.0\MVC_App_Domain.dll
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\bin\Debug\net6.0\MVC_App_DataAccess.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\bin\Debug\net6.0\MVC_App_Domain.pdb
+C:\Users\HP\Desktop\mvc repo\MVC APP\MVC_AppServices\obj\Debug\net6.0\MVC_AppServices.csproj.CopyComplete
